@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Note-Keeping-App",
+    "description": "A note keeping android app which allows you to create, edit, delete and share notes. Its design and features are mostly inspired by Google Keep and Mi notes.",
+    "icons": [
+      {
+        "tech": "Kotlin",
+        "src": "https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667"
+      },
+      {
+        "tech": "Android",
+        "src": "https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667"
+      }
+    ],
+    "url": "https://github.com/AnuragThePathak/Note-Keeping-App"
+  },
+  {
+    "title": "News Feed App",
+    "description": "Android app that fetches news from various news sources and displays them on a web page. It has a total of 7  categories at this moment. It also participated it Hacktoberfest 2021 and had total 9 contributors.",
+    "icons": [
+      {
+        "tech": "Kotlin",
+        "src": "https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667"
+      },
+      {
+        "tech": "Android",
+        "src": "https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667"
+      }
+    ],
+    "url": "https://github.com/AnuragThePathak/News-Feed-App"
+  },
+  {
+    "title": "URL Shortener",
+    "description": "It was developed in the FreeCodeCamp Back End Development course. Here user can generate a shorter URL corresponding to any URL and use it later on. Expressjs and MongoDb is used.",
+    "icons": [
+      {
+        "tech": "Javascript",
+        "src": "https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"
+      },
+      {
+        "tech": "Nodejs",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "tech": "Expressjs",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+      },
+      {
+        "tech": "MongoDb",
+        "src": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      }
+    ],
+    "url": "https://github.com/AnuragThePathak/URL-Shortener"
+  },
+  {
+    "title": "News Web App",
+    "description": "It is web version of the News Feed android app, with almost same feature and developed with Reactjs, Bootstrap React and Typescript. It is a Progressive Web App.",
+    "icons": [
+      {
+        "tech": "Typescript",
+        "src": "https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667"
+      },
+      {
+        "tech": "Reactjs",
+        "src": "https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667"
+      }
+    ],
+    "url": "https://github.com/AnuragThePathak/News-Web-App"
+  },
+  {
+    "title": "Notes Web App",
+    "description": "A simple React based PWA which I developed for learning Reactjs. You can use it to add and store notes and delete when you wish but can't edit the notes.",
+    "icons": [
+      {
+        "tech": "Javascript",
+        "src": "https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"
+      },
+      {
+        "tech": "Reactjs",
+        "src": "https://camo.githubusercontent.com/98ce3f27aec475c03ad0441a7d4092f6b956814c7adc7f0049689dccedb82f1d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667"
+      }
+    ],
+    "url": "https://github.com/AnuragThePathak/notes-react-app"
+  }
+]
